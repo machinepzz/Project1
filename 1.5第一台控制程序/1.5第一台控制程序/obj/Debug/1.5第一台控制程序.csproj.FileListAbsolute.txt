@@ -1,0 +1,16 @@
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\bin\Debug\1.5第一台控制程序.exe.config
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\bin\Debug\1.5第一台控制程序.exe
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\bin\Debug\1.5第一台控制程序.pdb
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.exe
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.pdb
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\C#_Stduy\1.5_example\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.csproj.SuggestedBindingRedirects.cache
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\bin\Debug\1.5第一台控制程序.exe.config
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\bin\Debug\1.5第一台控制程序.exe
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\bin\Debug\1.5第一台控制程序.pdb
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.csproj.AssemblyReference.cache
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.csproj.SuggestedBindingRedirects.cache
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.csproj.CoreCompileInputs.cache
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.exe
+G:\alidownload\gitenv\1.5第一台控制程序\1.5第一台控制程序\obj\Debug\1.5第一台控制程序.pdb
